@@ -15,5 +15,5 @@ Welcome to my personal portfolio website! This is a simple yet elegant website d
 - **Contact**: A section for visitors to reach out to me for collaborations, inquiries, or freelance opportunities.
 
 ### How to View:
-You can view the live portfolio website by visiting [**your live URL here**] (e.g., GitHub Pages or other hosting platform).
+You can view the live portfolio website by visiting [https://kokila1930.github.io/-kk-protfolio-simple-file/] (e.g., GitHub Pages or other hosting platform).
 
